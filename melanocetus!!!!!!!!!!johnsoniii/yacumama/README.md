@@ -31,6 +31,8 @@ output = milz.run(lang, Zfii)
 print(output, end="")
 ```
 #### milling ####
-```python yacumama.py Milz.png something.py mascot.png PLEASE MILZ DO '*vnoMiiii'```<br>
+```TODO```<br>
 then<br>
-```run mascot.png```
+```
+cd ../
+run.bat```
