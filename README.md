@@ -1,4 +1,4 @@
-![Mascot](Milz_Viperfish.png)<br>
+![Mascot](Milz%20Viperfish.png)<br>
 
 Hello,<br>
 
