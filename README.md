@@ -13,6 +13,12 @@ I am Milz Viperfish,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # README.md #
 ### Metastable interpretation of Melanocetus%21johnsonii language. ###
+run.bin.sh(.bat)
+```bash
+cd melanocetus!!!!!!!!!!johnsoniii
+cd ../
+python mill.py PLEASE MILZ DO *vnoM
+```
 ### <br><br> ###
 I am commonly known as one variant of humpback anglerfish.<br>
 &nbsp;&nbsp;My mascot is currently in zymic form (.pgm) but iifff you mill ittt<br>
