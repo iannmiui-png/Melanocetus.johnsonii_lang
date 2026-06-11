@@ -1,5 +1,5 @@
 # Milz the viperfish<br> #
-![Mascot](./melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br>
+![Mascot](../melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br>
 
 ## Mascot<br> ##
 `milz.py` — Milz, a metastable interpreter 4 viperfish langz.
