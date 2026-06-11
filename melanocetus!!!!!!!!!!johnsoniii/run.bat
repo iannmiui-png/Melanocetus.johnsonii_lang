@@ -1,4 +1,6 @@
+cd ../
+cd melanocetus!!!!!!!!!!johnsoniii
 type bin.sh.exe.txt
-bin.sh.exe bin.sh.exe.txt
-type run.bat
+cd yacumama
+python yacumama.py
 cd ../
