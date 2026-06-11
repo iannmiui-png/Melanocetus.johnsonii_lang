@@ -23,4 +23,5 @@ I am commonly known as one variant of humpback anglerfish.<br>
 P.S. You cant mill a viperfish with expressions that are too large for a mascot.<br>
 ~signed<br>
 ![Mascot](Humpback_anglerfish.png)<br>
+### License ###
 _cc0 Universal_
