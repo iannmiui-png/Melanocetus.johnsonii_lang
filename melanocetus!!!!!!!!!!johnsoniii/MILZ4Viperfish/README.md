@@ -10,9 +10,9 @@
 #### Example:<br> ####
 &nbsp;&nbsp;&nbsp;```⟨python milz.py⟩ PLEASE MILZ DO *vnoMiiii```
 
-### yacumama interpreter ###
-is a method of storing the Milz interpreter via TernLSB in an uncompressed PNG format to be run as a truly output‑only language.
-
+### /yacumama/yacumama.py ###
+Yacumama stores the Milz interpreter via TernLSB in an uncompressed picture format (PNG, BMP etc...) to honor the output‑only paradigm and limit semantic confusion.<br>
+__(note: Programs are stored in uncompressed picture files via steganography in THEE Milz Viperfish humpback anglerfish language syntax_
 #### usage ####
 
 ##### 1. Direct milling #####
