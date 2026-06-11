@@ -1,4 +1,4 @@
-### /yacumama/yacumama.py ###
+### /yacumama/yacu/mama.py ###
 Yacumama stores the Milz interpreter via TernLSB in an uncompressed picture format (PNG, BMP etc...) to honor the output‑only paradigm and limit semantic confusion.<br>
 __(note: Programs are stored in uncompressed picture files via steganography in THEE Milz Viperfish humpback anglerfish language syntax_
 #### usage ####
@@ -33,4 +33,6 @@ print(output, end="")
 #### milling ####
 ```python yacumama.py Milz.png something.py mascot.png PLEASE MILZ DO '*vnoMiiii'```<br>
 then<br>
-```run mascot.png```
+```
+cd ../
+run.bat```
