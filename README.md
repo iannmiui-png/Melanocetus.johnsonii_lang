@@ -16,5 +16,6 @@ I am commonly known as one variant of humpback anglerfish.<br>
 <br>
 &nbsp;Please enjoy sonii and feel free to use any of either the BESPOKE syntax or the common tongue.
 P.S. You cant mill a viperfish with expressions that are too large for a mascot.<br>
-~signed ![Mascot](Humpback_anglerfish.png)<br>
+~signed<br>
+![Mascot](Humpback_anglerfish.png)<br>
 _cc0 Universal_
