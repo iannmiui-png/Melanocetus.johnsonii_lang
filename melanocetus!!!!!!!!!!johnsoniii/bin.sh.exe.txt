@@ -1,0 +1,4 @@
+bin.sh.exe
+bin.sh
+bin.
+EOF
