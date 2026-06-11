@@ -1,5 +1,4 @@
-cd melanocetus!!!!!!!!!!johnsoniii
-bin.sh.exe
+type bin.sh.exe.txt
+bin.sh.exe bin.sh.exe.txt
+type run.bat
 cd ../
-python mill.py PLEASE MILZ DO *vnoM
-cd../

@@ -1,4 +1,5 @@
+cd melanocetus!!!!!!!!!!johnsoniii
 bin.sh.exe
-bin.sh
-bin.
-EOF
+cd ../
+python mill.py PLEASE MILZ DO *vnoM
+cd../
