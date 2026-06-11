@@ -1,5 +1,5 @@
 # Milz the viperfish<br> #
-![Mascot](Milz.png)<br>
+![Mascot](../logos/Milz%20Viperfish.pngg)<br>
 
 ## Mascot<br> ##
 `milz.py` — Milz, a metastable interpreter 4 viperfish langz.
