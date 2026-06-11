@@ -1,3 +1,5 @@
 cd melanocetus!!!!!!!!!!johnsoniii
+bin.sh.exe
 cd ../
 python mill.py PLEASE MILZ DO *vnoM
+cd../
