@@ -25,8 +25,8 @@ python mill.py PLEASE MILZ DO *vnoM
 ### <br><br> ###
 I am commonly known as one variant of humpback anglerfish.<br>
 &nbsp;&nbsp;My mascot is currently in zymic form (.pgm) but iifff you mill ittt<br>
-&nbsp;&nbsp;&nbsp;theeeeeeeee LZW serum is known as (.png);<br>
-&nbsp;&nbsp;(.bmp) also might work.<br>
+&nbsp;&nbsp;&nbsp;theeeeeeeee LZW serum is known as "dot peee enn Ggeee";<br>
+&nbsp;&nbsp;(but .bmp also might work.)<br>
 <br>
 &nbsp;Please enjoy sonii and feel free to use any of either the BESPOKE syntax or the common tongue.<br><br>
 P.s. You can't mill a viperfish with expressions which are too large for a mascot.<br>
