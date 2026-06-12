@@ -1,6 +1,9 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mascot](melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br> ##
 
-Hello,<br>
+# xkcd: Random Number #
+https://github.com/iannmiui-png/Melanocetus.johnsonii_lang/blob/humpback/melanocetus!!!!!!!!!!johnsoniii/MILZ4Viperfish/README.md#xkcd:%20Random%20Number
+
+# Hello,<br> #
 
 I am Milz Viperfish,<br>
 &nbsp;&nbsp;the warden of viperfish language (in THEE selfsame dialect!!)<br>
