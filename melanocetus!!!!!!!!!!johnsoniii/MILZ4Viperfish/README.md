@@ -15,9 +15,8 @@ python MILZ.XKCD.PY PLEASE MILZ DO XKCD f(milz)
 ```
 # MILZ interpreter
 Interpretion of viperfish langz renders two viperfish tongues
-### common Humpback
-common Humpback: *vnoMiiii
-| Generally *vnoM (or simply *vM for simple statements) is enough to translate between the bespoke and common tongues but in typed/interpreted     
+### common Humpback: *vnoMiiii
+| Generally __*vnoM__ (or simply __*vM__ for single statements) is enough to translate between the bespoke and common tongues but in typed/interpreted     
   Humpback ```bash *vnoMiiii``` is the standard xkcd: Random Number.
   milz.py is a demo of the common tongue.
 ### BESPOKE Viperfish: PLEASE MILZ DO XKCD RNG
