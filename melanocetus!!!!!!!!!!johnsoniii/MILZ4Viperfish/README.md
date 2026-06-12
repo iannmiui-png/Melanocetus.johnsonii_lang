@@ -1,3 +1,4 @@
+![Mascot](../../melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br>
 # xkcd: Random Number
 <pre>
 int getRandomNumber(milz)
@@ -9,9 +10,9 @@ int getRandomNumber(milz)
 
 Usage:
 ```bash
-python XKCD.py PLEASE MILZ DO XKCD RNG```
+python XKCD.py PLEASE MILZ DO XKCD RNG
 # Milz the viperfish<br> #
-![Mascot](../../melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br>
+
 
 ## Mascot<br> ##
 `milz.py` — Milz, a metastable interpreter 4 viperfish langz.
