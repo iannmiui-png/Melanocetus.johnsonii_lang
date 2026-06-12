@@ -7,7 +7,7 @@ int getRandomNumber(milz)
 }
     </pre>
 
-<code>python XKCD.py PLEASE MILZ DO XKCD RNG</code>
+Usage:<code>python XKCD.py PLEASE MILZ DO XKCD RNG</code>
 # Milz the viperfish<br> #
 ![Mascot](../../melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br>
 
