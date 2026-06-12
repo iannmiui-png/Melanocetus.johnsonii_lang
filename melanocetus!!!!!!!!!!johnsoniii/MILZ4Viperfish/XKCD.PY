@@ -123,56 +123,48 @@ def strip_bespoke_prefix(src):
     return src[idx + len(prefix):].lstrip()
 
 def parse_xkcd_mode(core: str):
-    """
-    Returns (xkcd_mode: bool, core_after_keywords: str)
-
-    Rules:
-    - If core starts with 'XKCD', enable XKCD mode and strip that word.
-    - If in XKCD mode and next word is 'RNG', replace core with '*vnoMiii'.
-    """
     core = core.lstrip()
-    xkcd_mode = False
 
-    # Check for XKCD keyword
-    if core.startswith("XKCD"):
-        xkcd_mode = True
-        core = core[len("XKCD"):].lstrip()
+    if not core.startswith("XKCD"):
+        return None, core, True
 
-        # If next word is RNG, canonical RNG program is *vnoMiii
-        if core.startswith("RNG"):
-            core = "*vnoMiii"
+    rest = core[len("XKCD"):].lstrip()
 
-    return xkcd_mode, core
+    if rest == "":
+        return "plain", "*vnoM", True
+
+    if rest.startswith("RNG"):
+        return "rng", "*vnoMiiii", True
+
+    return "invalid", "", False
 
 def run_milz_source(src):
     core = strip_bespoke_prefix(src)
-    xkcd_mode, core = parse_xkcd_mode(core)
+    mode, core, valid = parse_xkcd_mode(core)
 
-    if xkcd_mode:
-        # Normalize for pattern checks
-        normalized = core.replace(" ", "")
+    if not valid:
+        return ""
 
-        # PLEASE MILZ DO XKCD  -> prints nothing
-        if normalized == "":
-            return ""
-
-        # PLEASE MILZ DO XKCD *vnoM      -> prints 4
-        # PLEASE MILZ DO XKCD RNG        -> core == '*vnoMiii' -> prints 4
-        if normalized.startswith("*vnoM"):
-            return "4"
-
-        # For any other program in XKCD mode, fall back to normal execution
-        # (you can tighten this if you want XKCD to only allow RNG)
+    if mode is None:
         tokens = tokenize(core)
         vm = MilzMachine()
         vm.run_tokens(tokens)
         return vm.get_output()
 
-    # Normal (non-XKCD) execution
-    tokens = tokenize(core)
-    vm = MilzMachine()
-    vm.run_tokens(tokens)
-    return vm.get_output()
+    if mode == "plain":
+        tokens = tokenize(core)
+        vm = MilzMachine()
+        vm.run_tokens(tokens)
+        return vm.get_output()
+
+    if mode == "rng":
+        tokens = tokenize(core)
+        vm = MilzMachine()
+        vm.run_tokens(tokens)
+        out = vm.get_output()
+        return "4" if out else ""
+
+    return ""
 
 def main():
     if len(sys.argv) < 2:
