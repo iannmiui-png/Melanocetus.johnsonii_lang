@@ -1,6 +1,2 @@
-cd ../
-cd melanocetus!!!!!!!!!!johnsoniii
-type bin.sh.exe.txt
 cd yacumama
-python yacumama.py
-cd ../
+python yacu.py mascot.png
