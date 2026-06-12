@@ -19,8 +19,8 @@ I am Milz Viperfish,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # README.md #
 ### Metastable interpretation of Melanocetus%21johnsonii language. ###
-<img width="1070" height="660" alt="image" src="https://github.com/user-attachments/assets/3475c4fc-44fc-4e78-b7fa-b4b56c150bdd" alt ="
-==Commands==
+<img width="1070" height="660" alt="
+  ==Commands==
 There is a main accumulator a conversion table and a zeta function.
 {| class=wikitable
 !Command
@@ -173,7 +173,8 @@ There is a zeta function; conversion to higher orders such as lower case and num
 |{51Zinfinity}
 |_
 |}
-"/>
+
+  " src="https://github.com/user-attachments/assets/3475c4fc-44fc-4e78-b7fa-b4b56c150bdd" />
 
 Milz.bat type melanocetus!!!!!!!!!!johnsoniii/run.bat
 ```bash
