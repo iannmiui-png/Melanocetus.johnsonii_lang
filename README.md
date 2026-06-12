@@ -2,10 +2,10 @@
 
 # xkcd: Random Number #
 ## external links ##
-*https://xkcd.com/221/
-*https://esolangs.org/wiki/Melanocetus%21johnsonii
+#https://xkcd.com/221/<br>
+#https://esolangs.org/wiki/Melanocetus%21johnsonii<br>
 ## internal links ##
-*https://github.com/iannmiui-png/Melanocetus.johnsonii_lang/blob/humpback/melanocetus!!!!!!!!!!johnsoniii/MILZ4Viperfish/README.md#xkcd:%20Random%20Number
+#https://github.com/iannmiui-png/Melanocetus.johnsonii_lang/blob/humpback/melanocetus!!!!!!!!!!johnsoniii/MILZ4Viperfish/README.md#xkcd:%20Random%20Number
 # Hello,<br> #
 
 I am Milz Viperfish,<br>
