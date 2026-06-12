@@ -13,7 +13,7 @@ I am Milz Viperfish,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # README.md #
 ### Metastable interpretation of Melanocetus%21johnsonii language. ###
-Milz.bat
+Milz.bat type melanocetus!!!!!!!!!!johnsoniii/run.bat
 ```bash
 cd melanocetus!!!!!!!!!!johnsoniii
 cd ../
