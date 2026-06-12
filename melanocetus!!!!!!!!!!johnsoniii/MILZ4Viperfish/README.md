@@ -1,5 +1,6 @@
 ![Mascot](../../melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br>
 # xkcd: Random Number demo/interpreter
+![xkcd:/221/](https://imgs.xkcd.com/comics/random_number.png)
 <pre>
 int getRandomNumber(milz)
 {
