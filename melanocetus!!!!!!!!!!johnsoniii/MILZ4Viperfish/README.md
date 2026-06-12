@@ -1,10 +1,13 @@
 # xkcd: Random Number
+<pre>
 int getRandomNumber(milz)
 {
     return 4: // chosen by fair dice roll.
               // guaranteed to be random.
 }
-python XKCD.py PLEASE MILZ DO XKCD RNG
+    </pre>
+    <br>
+<code>python XKCD.py PLEASE MILZ DO XKCD RNG</code>
 # Milz the viperfish<br> #
 ![Mascot](../../melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br>
 
