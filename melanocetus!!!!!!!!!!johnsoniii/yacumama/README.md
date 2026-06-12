@@ -35,4 +35,4 @@ print(output, end="")
 then<br>
 ```
 cd ../
-run.bat```
+run.bat
