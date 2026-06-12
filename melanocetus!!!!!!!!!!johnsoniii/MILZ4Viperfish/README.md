@@ -9,10 +9,12 @@ int getRandomNumber(milz)
     </pre>
 usage:
 ```bash
-python XKCD.MILZ.PY PLEASE MILZ DO XKCD RNG
-     (/221/) // xkdc: Random Number chosen by fair dice roll.
 python XKCD.MILZ.PY PLEASE MILZ DO XKCD
-     f(milz) // int getRandomNumber(milz) guaranteed to be random.
+    f(milz) // int getRandomNumber(milz) guaranteed to be random.
+python XKCD.MILZ.PY PLEASE MILZ DO XKCD RNG
+    (/221/) // xkdc: Random Number chosen by fair dice roll.
+python milz.py PLEASE MILZ DO *vnoMii
+    return 4; // 4.
 ```
 # MILZ interpreter
 Interpretion of viperfish langz renders two viperfish tongues
