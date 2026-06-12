@@ -3,7 +3,7 @@
 <pre>
 int getRandomNumber(milz)
 {
-    return 4: // chosen by fair dice roll.
+    return 4; // chosen by fair dice roll.
               // guaranteed to be random.
 }
     </pre>
