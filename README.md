@@ -1,8 +1,11 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mascot](melanocetus!!!!!!!!!!johnsoniii/logos/Milz%20Viperfish.png)<br> ##
 
 # xkcd: Random Number #
-https://github.com/iannmiui-png/Melanocetus.johnsonii_lang/blob/humpback/melanocetus!!!!!!!!!!johnsoniii/MILZ4Viperfish/README.md#xkcd:%20Random%20Number
-
+## external links ##
+*https://xkcd.com/221/
+*https://esolangs.org/wiki/Melanocetus%21johnsonii
+## internal links ##
+*https://github.com/iannmiui-png/Melanocetus.johnsonii_lang/blob/humpback/melanocetus!!!!!!!!!!johnsoniii/MILZ4Viperfish/README.md#xkcd:%20Random%20Number
 # Hello,<br> #
 
 I am Milz Viperfish,<br>
